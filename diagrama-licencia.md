@@ -1,0 +1,11 @@
+graph TD;
+    A[Licencia de Paternidad] --> B[Protección contra la Discriminación]
+    A --> C[Estabilidad Laboral Reforzada]
+    B --> D[Prohibición de Despido durante la Licencia]
+    B --> E[Despido por Ejercicio de la Licencia es Ilegal]
+    C --> F[Justificación del Despido]
+    C --> G[Autorización del Despido]
+    D --> H[Despido vulnera igualdad y no discriminación]
+    E --> I[Acción Constitucional si ocurre despido]
+    F --> J[Debe basarse en razones objetivas]
+    G --> K[Requiere autorización del Ministerio de Trabajo]
